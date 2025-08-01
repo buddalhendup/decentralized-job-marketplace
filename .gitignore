@@ -1,0 +1,11 @@
+node_modules/
+smart-contract/node_modules/
+web/node_modules/
+mobile/node_modules/
+smart-contract/.env
+web/.env
+mobile/.env
+web/build/
+mobile/dist/
+*.log
+*.DS_Store
